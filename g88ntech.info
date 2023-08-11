@@ -1,0 +1,10 @@
+{
+    "version": "0.0.1",
+    "code": {
+        "api_w": "pronakia.ink",
+        "api_m": "pronakia.ink",
+        "hotupdate_url": "https://update.pronakia.ink/",
+        "sp_fb": "",
+        "sp_telegram": ""
+    }
+}
