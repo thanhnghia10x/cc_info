@@ -1,1 +1,10 @@
-
+{
+	"version": "0.0.1",
+	"code": {
+		"api_w": "g8pso.one",
+		"api_m": "g8pso.one",
+		"hotupdate_url": "https://update.g8pso.one/",
+		"sp_fb": "https://www.facebook.com/path",
+		"sp_telegram": "https://t.me/path"
+	}
+}
